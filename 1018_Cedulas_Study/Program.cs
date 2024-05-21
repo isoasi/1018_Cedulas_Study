@@ -40,16 +40,6 @@ class URI
 
         Console.ReadLine();
 
-
-
-
-
-
-
-
-
-
-
     }
 
 }
